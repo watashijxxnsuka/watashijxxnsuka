@@ -13,7 +13,7 @@
     </a>
 </div><br>
 
-## 🔨 Once I've used 🔨
+## 🔨 열심히%20공부%20중...! 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
     <p><strong>Backend</strong></p>
