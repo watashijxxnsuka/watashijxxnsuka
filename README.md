@@ -1,4 +1,7 @@
-### Hi there, I'm watashijxxnsuka👋
+
+![header](https://capsule-render.vercel.app/api?
+type=rounded&color=timeGradient&text=Welcome%20to%20watashijxxnsuka's%20GitHub%20👋
+&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=watashijxxnsuka)](https://solved.ac/jxxn2538)
 
