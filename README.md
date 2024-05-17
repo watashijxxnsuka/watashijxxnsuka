@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jxxn2538)](https://solved.ac/jxxn2538)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=watashijxxnsuka)](https://solved.ac/jxxn2538)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=watashijxxnsuka&show_icons=true&theme=radical)
 
