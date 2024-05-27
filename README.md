@@ -57,7 +57,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=watashijxxnsuka&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=watashijxxnsuka)](https://solved.ac/jxxn2538)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jxxn2538)](https://solved.ac/jxxn2538)
 
 
 [![wakatime](https://wakatime.com/badge/user/3fe28b13-2180-4bb2-b326-965eded45dd2.svg)](https://wakatime.com/@3fe28b13-2180-4bb2-b326-965eded45dd2)
