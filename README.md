@@ -11,6 +11,7 @@
     <a href="https://www.instagram.com/watashijxxnsuka">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
+    https://watashijxxnsuka.tistory.com/
 </div><br>
 
 ## 🔨 Now I'm Studying 🔨
