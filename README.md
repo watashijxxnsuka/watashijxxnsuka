@@ -11,7 +11,6 @@
     <a href="https://www.instagram.com/watashijxxnsuka">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
-    https://watashijxxnsuka.tistory.com/
      <a href="https://watashijxxnsuka.tistory.com/"><img src="https://img.shields.io/badge/tistory-FF5A4A.svg?&style=for-the-badge&logo=tistory&logoColor=white"/>
      </a>
 </div><br>
