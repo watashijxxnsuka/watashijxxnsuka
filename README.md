@@ -2,17 +2,17 @@
 
 ## 📞 Contact Me 📞
 <div style="display:flex; flex-direction:row;">
-    <a href="mailto:jxxn2538@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+     <a href="https://watashijxxnsuka.tistory.com/"><img src="https://img.shields.io/badge/tistory-FF5A4A.svg?&style=for-the-badge&logo=tistory&logoColor=white"/>
+     </a>
+    <a href="https://www.instagram.com/watashijxxnsuka">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
     <a href="https://open.kakao.com/o/sHrSt9rg">
         <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
     </a>
-    <a href="https://www.instagram.com/watashijxxnsuka">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+    <a href="mailto:jxxn2538@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
-     <a href="https://watashijxxnsuka.tistory.com/"><img src="https://img.shields.io/badge/tistory-FF5A4A.svg?&style=for-the-badge&logo=tistory&logoColor=white"/>
-     </a>
 </div><br>
 
 ## 🔨 Now I'm Studying 🔨
